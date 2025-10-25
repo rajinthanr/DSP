@@ -1,0 +1,13 @@
+Image,Quality,PSNR_dB,NonZeros
+monarch,60,33.17,13325
+monarch,25,29.89,8444
+monarch,5,23.76,3003
+cameraman,60,32.56,11058
+cameraman,25,29.16,6145
+cameraman,5,24.11,1993
+parrots,60,35.52,8697
+parrots,25,32.28,5148
+parrots,5,25.97,1933
+forest,60,30.54,17627
+forest,25,27.97,10139
+forest,5,23.35,2244
