@@ -91,7 +91,7 @@ imageFiles{end+1} = 'forest.mat';
 images{end+1} = forestImage;
 numImages = numImages + 1; 
 
-qualities = [60, 25, 5];
+qualities = [90, 80 , 70, 60, 50, 40, 30, 20, 10, 5, 1];
 numQualities = length(qualities);
 
 numCols = 1 + numQualities;
